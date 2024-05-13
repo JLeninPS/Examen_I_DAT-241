@@ -1,6 +1,3 @@
-#include"stdio.h"
-#include"string.h"
-
 void suma(int a, int b, int *c){
     *c = a + b;
 }

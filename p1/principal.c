@@ -20,19 +20,19 @@ void main(){
     //Para la División
     residuo = a;
     sw = 1;
-    if(b != 0 && b < a) division(&residuo, b, &cociente);
+    if(b != 0 && b <= a) division(&residuo, b, &cociente);
     else sw = 0;
     //---------------------------
 
     printf("\nSuma: %d", s);
-
-    printf("\nResta: %d", r);
-    
+    printf("\nResta: %d", r);   
     printf("\nProducto: %d", p);
     
     printf("\nDivision:");
-    if(sw) printf("\n\tCociente = %d, Residuo = %d", cociente, residuo);
-    else printf("\n\tNo es posible realizar la division...");
+    if(a != 0) {
+        if (sw) printf("\n\tCociente = %d\n\tResiduo = %d", cociente, residuo);
+        else printf("\n\tNo es posible realizar la division...");
+    }else printf("\n\tCociente = %d\n\tResiduo = %d", 0, 0);
 
     printf("\n\n-------Fin de Programa-------\n");
 }

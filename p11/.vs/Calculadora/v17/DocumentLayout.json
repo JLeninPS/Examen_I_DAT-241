@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenin\\OneDrive\\Documentos\\2024\\2024_I\\DAT-241\\Examenes\\Examen_I\\Calculadora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5202A11A-ADE3-4673-9794-179F9018524C}|Calculadora\\Calculadora.csproj|C:\\Users\\lenin\\OneDrive\\Documentos\\2024\\2024_I\\DAT-241\\Examenes\\Examen_I\\Calculadora\\calculadora\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5202A11A-ADE3-4673-9794-179F9018524C}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5202A11A-ADE3-4673-9794-179F9018524C}|Calculadora\\Calculadora.csproj|C:\\Users\\lenin\\OneDrive\\Documentos\\2024\\2024_I\\DAT-241\\Examenes\\Examen_I\\Calculadora\\calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5202A11A-ADE3-4673-9794-179F9018524C}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5202A11A-ADE3-4673-9794-179F9018524C}|Calculadora\\Calculadora.csproj|C:\\Users\\lenin\\OneDrive\\Documentos\\2024\\2024_I\\DAT-241\\Examenes\\Examen_I\\Calculadora\\calculadora\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5202A11A-ADE3-4673-9794-179F9018524C}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5202A11A-ADE3-4673-9794-179F9018524C}|Calculadora\\Calculadora.csproj|C:\\Users\\lenin\\OneDrive\\Documentos\\2024\\2024_I\\DAT-241\\Examenes\\Examen_I\\Calculadora\\calculadora\\funciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5202A11A-ADE3-4673-9794-179F9018524C}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\funciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5202A11A-ADE3-4673-9794-179F9018524C}|Calculadora\\Calculadora.csproj|c:\\users\\lenin\\onedrive\\documentos\\2024\\2024_i\\dat-241\\examenes\\examen_i\\calculadora\\calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5202A11A-ADE3-4673-9794-179F9018524C}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\lenin\\OneDrive\\Documentos\\2024\\2024_I\\DAT-241\\Examenes\\Examen_I\\Calculadora\\Calculadora\\Form2.cs",
+              "RelativeDocumentMoniker": "Calculadora\\Form2.cs",
+              "ToolTip": "C:\\Users\\lenin\\OneDrive\\Documentos\\2024\\2024_I\\DAT-241\\Examenes\\Examen_I\\Calculadora\\Calculadora\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Calculadora\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:36:25.244Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\lenin\\OneDrive\\Documentos\\2024\\2024_I\\DAT-241\\Examenes\\Examen_I\\Calculadora\\Calculadora\\Form1.cs",
+              "RelativeDocumentMoniker": "Calculadora\\Form1.cs",
+              "ToolTip": "C:\\Users\\lenin\\OneDrive\\Documentos\\2024\\2024_I\\DAT-241\\Examenes\\Examen_I\\Calculadora\\Calculadora\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Calculadora\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T00:14:56.672Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "funciones.cs",
+              "DocumentMoniker": "C:\\Users\\lenin\\OneDrive\\Documentos\\2024\\2024_I\\DAT-241\\Examenes\\Examen_I\\Calculadora\\Calculadora\\funciones.cs",
+              "RelativeDocumentMoniker": "Calculadora\\funciones.cs",
+              "ToolTip": "C:\\Users\\lenin\\OneDrive\\Documentos\\2024\\2024_I\\DAT-241\\Examenes\\Examen_I\\Calculadora\\Calculadora\\funciones.cs",
+              "RelativeToolTip": "Calculadora\\funciones.cs",
+              "ViewState": "AQIAAAwAAACAmZmZmRkzwFoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T13:47:06.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\lenin\\OneDrive\\Documentos\\2024\\2024_I\\DAT-241\\Examenes\\Examen_I\\Calculadora\\Calculadora\\Form2.cs",
+              "RelativeDocumentMoniker": "Calculadora\\Form2.cs",
+              "ToolTip": "C:\\Users\\lenin\\OneDrive\\Documentos\\2024\\2024_I\\DAT-241\\Examenes\\Examen_I\\Calculadora\\Calculadora\\Form2.cs",
+              "RelativeToolTip": "Calculadora\\Form2.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAADwv3AAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T13:46:27.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\lenin\\OneDrive\\Documentos\\2024\\2024_I\\DAT-241\\Examenes\\Examen_I\\Calculadora\\Calculadora\\Form1.cs",
+              "RelativeDocumentMoniker": "Calculadora\\Form1.cs",
+              "ToolTip": "C:\\Users\\lenin\\OneDrive\\Documentos\\2024\\2024_I\\DAT-241\\Examenes\\Examen_I\\Calculadora\\Calculadora\\Form1.cs",
+              "RelativeToolTip": "Calculadora\\Form1.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA2wCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T00:19:30.34Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
